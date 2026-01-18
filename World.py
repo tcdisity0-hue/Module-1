@@ -24,7 +24,22 @@ print(max)
 Nu5 = int(input('Number 5'))
 Nu6 = int(input('Number 6'))
 
+
 add=int(Nu5)+int(Nu6)
 print(add)
+
+
+name2=input('Enter your name again: ')
+
+print(('Guten tag da,')+name2)
+
+print(type(Nu3))
+print(type(Nu4))
+print(type(Nu5))
+
+print(type(name2))
+
+
+
 
 
