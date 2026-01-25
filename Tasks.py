@@ -5,7 +5,7 @@ print(('Hello there ' + name))
 
 print('2')
 
-rad = int(input('Enter your radius: '))
+rad = int(7input('Enter your radius: '))
 Pi = 3.14159265359
 AreaC = int(Pi) * int(rad**2)
 
