@@ -32,7 +32,7 @@ for number in numbers[:5]:
 
 print("3")
 
-prime_ask = int(input("Enter an number that you think is a prime number: "))
+prime_ask = int(input("Enter a number that you think is a prime number: "))
 
 if prime_ask < 2:
     print(f"{prime_ask} is not a prime number")
